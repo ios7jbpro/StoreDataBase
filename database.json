@@ -236,5 +236,22 @@
     "SS6": "",
     "SS7": "",
     "SS8": ""
+  },
+  {
+    "Name": "Sharchive",
+    "Desc": "A small, open source app that allows you to view a webpage's history in Archive.org (Wayback Machine) or Archive.is from the share menu. Also has an option to archive a page to Archive.org.",
+    "Size": "1.31 MB",
+    "Version": "1.0",
+    "Icon": "https://githubcatw.github.io/apks/icons/Sharchive.png",
+    "Link": "https://githubcatw.github.io/apks/Sharchive.apk",
+    "Author": "Narek Torosyan, aka githubcatw",
+    "SS1": "https://githubcatw.github.io/apks/screenshots/sc/shar1.png",
+    "SS2": "https://githubcatw.github.io/apks/screenshots/sc/shar2.png",
+    "SS3": "https://githubcatw.github.io/apks/screenshots/sc/shar3.png",
+    "SS4": "https://githubcatw.github.io/apks/screenshots/sc/shar4.png",
+    "SS5": "https://githubcatw.github.io/apks/screenshots/sc/shar5.png",
+    "SS6": "https://githubcatw.github.io/apks/screenshots/sc/shar6.png",
+    "SS7": "",
+    "SS8": ""
   }
 ]
